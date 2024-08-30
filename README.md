@@ -1,2 +1,2 @@
 # testgit
-Onyl for practise use
+Only for practise use
