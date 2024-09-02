@@ -13,3 +13,7 @@ These edits are being made in branch 1 making this change number #2
 This change is for the main txt file, not part of the branch
 
 This change is for branch 2
+
+What happens if I add this here?
+
+Again I make a change here #3
