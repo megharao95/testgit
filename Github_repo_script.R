@@ -99,15 +99,8 @@ murders <- murders %>% mutate(rate = total/population*100000)
 nt <- murders %>% select(state, region, rate)
 filter(nt, rate <= 0.71)
 
-#restarting this dataset to write code, delete later
-library(dslabs)
-data(murders)
-View(murders)
+######################################
+# for further practise
 
-library(tidyverse)
-
-murders <- mutate (murders, rate = total/population*100000)
-
-murders
 
 
