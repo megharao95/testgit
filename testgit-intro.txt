@@ -1,3 +1,5 @@
-This file is a test txt file to check how the github interface works
+This file is a test txt file to check how the GitHub interface works
 
 Please do not use this file for any other purpose
+
+I am adding change #1 to this to check what happens
