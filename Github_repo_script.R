@@ -104,4 +104,6 @@ filter(nt, rate <= 0.71)
 library (dslabs)
 data(murders)
 murders[, 3]
+head(murders)
+murders$state
 
