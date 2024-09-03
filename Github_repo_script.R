@@ -105,5 +105,4 @@ library (dslabs)
 data(murders)
 murders[, 3]
 head(murders)
-murders$state
 
