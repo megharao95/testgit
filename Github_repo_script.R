@@ -100,9 +100,6 @@ nt <- murders %>% select(state, region, rate)
 filter(nt, rate <= 0.71)
 
 ######################################
-library (dslabs)
-data(murders)
-murders[, 3]
-head(murders)
+#deleted the last line as it doesnt work"
 
 
