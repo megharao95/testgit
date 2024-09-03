@@ -102,4 +102,6 @@ filter(nt, rate <= 0.71)
 ######################################
 #deleted the last line as it doesnt work"
 
+library (dslabs)
+
 
