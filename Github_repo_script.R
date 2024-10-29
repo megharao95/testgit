@@ -84,8 +84,6 @@ starwars %>%
   select(sex) %>% 
   mutate(sex = recode(sex, "male" = "man",
                           "female" = "woman"))
-#mean values
-mean(starwars$height, na.rm=TRUE)
 
 #####################################
 
