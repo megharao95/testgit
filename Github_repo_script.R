@@ -59,6 +59,9 @@ starwars %>% select(ends_with("year"))
 starwars %>% select(name, height, mass, birth_year, everything())
 View(starwars)
 
+print("amazing")
+
+
 #changing the name of the variable; new name first, followed by old name
 starwars %>% rename("characters" = "name") %>% head()
 
