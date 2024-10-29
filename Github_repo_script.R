@@ -105,6 +105,6 @@ filter(nt, rate <= 0.71)
 
 library (dslabs)
 
-#This file needs to be updated
+#Function development: Matrix duplication  
 
 
