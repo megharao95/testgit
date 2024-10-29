@@ -56,6 +56,10 @@ starwars %>% select(1:3)
 starwars %>% select(ends_with("year"))
 
 #changing the order
+starwars %>% select(name, height, mass, birth_year, everything())
+View(starwars)
+
+print("amazing")
 
 
 #changing the name of the variable; new name first, followed by old name
